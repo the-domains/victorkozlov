@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Victor Kozlov]]></title>
         <description><![CDATA[Victor Kozlov]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/victorkozlov/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 07:41:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 11:54:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/victorkozlov/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95f7101a-32a3-4b32-a9d5-c5d2862d26df.png">]]></description>
+            <link>https://thegrid.ai/victorkozlov/gotech-forum-06102016-moskva/index.html</link>
+            <guid isPermaLink="false">40cc6b9f-ab0f-4760-b058-bf9254342df9</guid>
+            <pubDate>Thu, 18 Aug 2016 11:54:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[iOS 10 Concept]]></title>
             <description><![CDATA[<p>Большинство публикуемых концептов (что хардварных, что софтверных) унылы от и до. Но иногда попадаются достаточно интересные задумки, как, например, вот этот концепт iOS 10 от Federico Viticci и Sam Beckett. Некоторые вещи вот прямо очень-очень хочется получить как можно быстрее. #apple #ios10 </p>]]></description>
-            <link>undefinedios-10-concept/index.html</link>
+            <link>https://thegrid.ai/victorkozlov/ios-10-concept/index.html</link>
             <guid isPermaLink="false">9d32bdbf-9032-4a4d-a6ad-90dad8137d0c</guid>
             <pubDate>Sat, 07 May 2016 07:41:15 GMT</pubDate>
         </item>
